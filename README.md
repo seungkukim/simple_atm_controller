@@ -53,7 +53,7 @@ cd simple_atm_controller
 Unit test is conducted with `unittest` framework with
 the test code located in test.py
 
-To run tests, cd into atm directory and run 
+To run tests, cd into simple_atm_controller directory and run 
 
 ```code
 python3 test.py
